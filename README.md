@@ -1,4 +1,4 @@
-# Dashboard Netflix Userbase Dataset
+# Netflix Userbase Dataset Dashboard
 
 ![Python Dash Dashboard](https://github.com/user-attachments/assets/49f596b7-8810-4975-824a-1992d80ff108)
 
